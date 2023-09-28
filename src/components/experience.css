@@ -1,0 +1,75 @@
+.firstwrk{
+    justify-content: center;
+    align-items: center;
+    padding: 0px 160px 0px 160px;
+    height: 144px;
+    gap: 105px;
+    /* border: 2px solid; */
+
+}
+
+.wrk2{
+    width: 621px;
+    height: 132px;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30%;
+}
+
+.new{
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #777E90;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30%;
+   padding-top: 15px;
+}
+
+.fitness{
+    font-family: 'SF Pro Display';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #FCFCFD;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.fit2{
+    width:1,120px;
+    height: 300px;
+    gap: 83px;
+    display: flex;
+    margin-top: 100px;
+}
+
+.forty{
+    width: 48px;
+    height: 48px;
+}
+
+.keep{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FCFCFD;
+}
+
+.divider{
+    width: 1px;
+    height: 300px;
+    background: #353945;
+
+}
